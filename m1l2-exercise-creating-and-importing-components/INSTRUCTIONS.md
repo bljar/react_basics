@@ -28,6 +28,6 @@ Remove the sentence that reads: *This is the starting code for “Your first com
 
 Save and view the app in the browser.
 
-## **Tips **
+## **Tips**
 
 If you're having trouble with this lab, please review the "Importing components" video. This video covers all the concepts that you'll need to successfully complete this lab. 
